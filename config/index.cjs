@@ -31,18 +31,16 @@ const USER_CONFIG = {
         
         // 注意：此条配置日期为阳历日期，因为`type`中 “生日” 之前没有 * 符号
         {
-          type: '生日', name: '宝宝', year: '2003', date: '10-23',
+          type: '生日', name: '昭惠宝宝', year: '2003', date: '10-23',
         },
-        {
-          type: '节日', name: '相识纪念日', year: '2023', date: '02-25',
-        },
+        
       ],
       // 我们在一起已经有xxxx天了的配置
       customizedDateList: [
         // 在一起的日子
-        { keyword: 'love_day', date: '2022-09-08' },
+        { keyword: 'love_day', date: '2023-02-25' },
         // 结婚纪念日
-        { keyword: 'marry_day', date: '2022-09-09' },
+        
       ],
     },
   ],
